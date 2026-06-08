@@ -1,6 +1,6 @@
 # Smart Waste Management Monitoring (SWMM) - Sistem Monitoring Tempat Sampah Pintar Berbasis IoT
 
-Repositori ini dibuat untuk memenuhi tugas Projek Akhir Praktikum Internet of Things (IoT), Program Studi Informatika, Universitas Mulawarman (2026).
+Repositori ini dibuat untuk memenuhi tugas Akhir Internet of Things (IoT), Program Studi Informatika, Universitas Mulawarman (2026).
 
 ---
 
