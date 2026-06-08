@@ -108,6 +108,6 @@ Klik tautan di bawah ini untuk melihat video demonstrasi cara kerja sistem SWMM:
 
 ## Board Schematic & Wiring
 
-![Board Schematic](SWMM_schematic.png)
+![Board Schematic](https://github.com/RaflyOlanda/UAS-IOT-UNMUL/blob/main/SWMM_schematic%20(1).png)
 
 > *Desain skematik dirakit menggunakan simulator Wokwi.*
